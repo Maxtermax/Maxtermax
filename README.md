@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Maxtermax/Maxtermax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer at @livevox | co founder of @H4ckdo +  @QuibdoJs
+| open source contributor / creator in the following projects: 
 
-Here are some ideas to get you started:
+- [hermes-io](https://www.npmjs.com/package/hermes-io#get-started): A lightweight javascript library that allows communication between components by using the observer pattern and the hook api.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [node-doodles](https://www.npmjs.com/package/node-doodles): This is a small module with which you can harness the REST API for google images known as doodles, can get images specifying the year and month of the doodle you want.
+
+- [@maxtermax/lux-io](https://www.npmjs.com/package/@maxtermax/lux-io): 
+javascript library, is a simple class that allows promises executions in queue, the execution queue have a maximum number of concurrent promises that can be execute at the same time.
+
+- [dispatch-model](https://www.npmjs.com/package/dispatch-model):
+javascript library for resolve http requests in a standar format works great with expressjs and sails.
+
+- [generator-stack-lego](https://www.npmjs.com/package/generator-stack-lego): This is a concept to build web applications based on the idea that build applications should be like building Lego houses: putting blocks ending with a complete application.
+
+
+If you find me work helpful please consider support me at https://www.buymeacoffee.com/maxtermax, that encourage me to continue working on cool open source projects.
+
+
