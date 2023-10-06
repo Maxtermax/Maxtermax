@@ -3,6 +3,8 @@
 Senior software engineer at @livevox | co founder of @H4ckdo +  @QuibdoJs
 | open source contributor / creator in the following projects: 
 
+Open source libraries:
+
 - [hermes-io](https://www.npmjs.com/package/hermes-io#get-started): A lightweight javascript library that allows communication between components by using the observer pattern and the hook api.
 
 - [node-doodles](https://www.npmjs.com/package/node-doodles): This is a small module with which you can harness the REST API for google images known as doodles, can get images specifying the year and month of the doodle you want.
