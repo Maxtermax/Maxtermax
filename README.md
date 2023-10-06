@@ -15,6 +15,10 @@ javascript library for resolve http requests in a standar format works great wit
 
 - [generator-stack-lego](https://www.npmjs.com/package/generator-stack-lego): This is a concept to build web applications based on the idea that build applications should be like building Lego houses: putting blocks ending with a complete application.
 
+Apps:
+- [sneaker store](https://sneaker-store-1.vercel.app): Sneaker store demo for [hermes-io](https://www.npmjs.com/package/hermes-io#get-started)
+- [hermes-io chrome extension](https://chrome.google.com/webstore/detail/hermes-io/pjdkgcpikfmkncldipldmimanfkpeedm?hl=en): chrome extension made for debug notifications emitted by [hermes-io](https://www.npmjs.com/package/hermes-io#get-started)  
+
 
 If you find me work helpful please consider support me at https://www.buymeacoffee.com/maxtermax, that encourage me to continue working on cool open source projects.
 
