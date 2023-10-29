@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Senior software engineer at @livevox | co founder of @H4ckdo +  @QuibdoJs
+I'm a senior software engineer at @livevox | co founder of @H4ckdo +  @QuibdoJs
 | open source contributor / creator in the following projects: 
 
 Open source libraries:
