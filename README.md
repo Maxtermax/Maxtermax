@@ -3,6 +3,9 @@
 I'm a senior software engineer at @livevox | co founder of @H4ckdo +  @QuibdoJs
 | open source contributor / creator in the following projects: 
 
+### website
+[maxtermax.dev](https://www.npmjs.com/package/hermes-io#get-started])
+
 Open source libraries:
 
 - [hermes-io](https://www.npmjs.com/package/hermes-io#get-started): A lightweight javascript library that allows communication between components by using the observer pattern and the hook api.
