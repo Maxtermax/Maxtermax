@@ -22,8 +22,7 @@ javascript library for resolve http requests in a standar format works great wit
 
 Apps:
 - [sneaker store](https://sneaker-store-1.vercel.app): sneaker store demo for [hermes-io](https://www.npmjs.com/package/hermes-io#get-started)
-- [hermes-io chrome extension](https://chrome.google.com/webstore/detail/hermes-io/pjdkgcpikfmkncldipldmimanfkpeedm?hl=en): chrome extension made for debug notifications emitted by [hermes-io](https://www.npmjs.com/package/hermes-io#get-started)  
-- [react sound player](https://react-sound-player-maxtermax.vercel.app/)
+- [hermes-io Inspector](https://chrome.google.com/webstore/detail/hermes-io/pjdkgcpikfmkncldipldmimanfkpeedm?hl=en): chrome extension made for debug notifications emitted by [hermes-io](https://www.npmjs.com/package/hermes-io#get-started)  
 
 If you find me work helpful please consider support me at https://www.buymeacoffee.com/maxtermax, that encourage me to continue working on cool open source projects.
 
