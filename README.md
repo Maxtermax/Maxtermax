@@ -1,12 +1,12 @@
 ### Hi there 👋
  
-Senior software engineer at @livevox | co founder of @H4ckdo +  @QuibdoJs
-| hermes-io author | open source contributor / creator in the following projects: 
+Senior software engineer at nice.com | co founder of @H4ckdo 
+| hermes-io creator | maintainer of open source projects.
 
 ### website
 [maxtermax.dev](https://www.maxtermax.dev)
 
-Open source libraries:
+Libraries:
 
 - [hermes-io](https://www.npmjs.com/package/hermes-io#get-started): A lightweight javascript library that allows communication between components by using the observer pattern and the hook api.
 
@@ -21,8 +21,8 @@ javascript library for resolve http requests in a standar format works great wit
 - [generator-stack-lego](https://www.npmjs.com/package/generator-stack-lego): This is a concept to build web applications based on the idea that build applications should be like building Lego houses: putting blocks ending with a complete application.
 
 Apps:
-- [sneaker store](https://sneaker-store-1.vercel.app): sneaker store demo for [hermes-io](https://www.npmjs.com/package/hermes-io#get-started)
-- [hermes-io Inspector](https://chrome.google.com/webstore/detail/hermes-io/pjdkgcpikfmkncldipldmimanfkpeedm?hl=en): chrome extension made for debug notifications emitted by [hermes-io](https://www.npmjs.com/package/hermes-io#get-started)  
+- [Sneaker store](https://sneaker-store-1.vercel.app): sneaker store demo for [hermes-io](https://hermes-io-docs.vercel.app/)  
+- [hermes-io Inspector](https://chrome.google.com/webstore/detail/hermes-io/pjdkgcpikfmkncldipldmimanfkpeedm?hl=en): chrome extension made for debuging [hermes-io](https://hermes-io-docs.vercel.app/)  
 
 If you find me work helpful please consider support me at https://www.buymeacoffee.com/maxtermax, that encourage me to continue working on cool open source projects.
 
